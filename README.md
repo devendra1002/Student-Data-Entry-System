@@ -7,7 +7,8 @@ Student data entry system is an application software which can be used to store 
 Implemented using Java programming language only.
 
 # Files Description:
-
+# -MainClass.Java:
+All classes such as Student, UnderGraduates, 
 
 # Concepts covered and Requirements:
 - Encapsulation
