@@ -17,7 +17,8 @@ Implemented using Java programming language only.
   This is another child class of class Student (i.e. it also extends Student class).
   
 - Master.Java, Phd.Java and Scientist.Java:
-  All these classes are child class of PostGraduate class.
+  All these classes are child class of PostGraduate class (i.e. all these classes extends PostGraduate class).
+  Multilevel Inheritance carried out here.
 
 # Concepts covered and Requirements:
 - Encapsulation
