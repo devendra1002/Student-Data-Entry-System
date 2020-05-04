@@ -19,6 +19,10 @@ Implemented using Java programming language only.
 - Master.Java, Phd.Java and Scientist.Java:
   All these classes are child class of PostGraduate class (i.e. all these classes extends PostGraduate class).
   Multilevel Inheritance carried out here.
+  
+- DataEntrySystemGuiBased.jar: 
+  This is executable file which is created using MainClass.java file.
+  File with extension (.jar) can be used to run the complete software without an IDE.
 
 # Concepts covered and Requirements:
 - Encapsulation
