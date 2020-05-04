@@ -7,10 +7,17 @@ Student data entry system is an application software which can be used to store 
 Implemented using Java programming language only.
 
 # Files Description:
--MainClass.Java:
-Classes UnderGraduates, Master, Phd and Scientist are instantiated here.
+- MainClass.Java:
+  Classes UnderGraduates, Master, Phd and Scientist are instantiated here.
 
--UnderGraduates
+- UnderGraduate.Java:
+  This is child class of class Student (i.e. it extends Student class).
+
+- PostGraduate.Java:
+  This is another child class of class Student (i.e. it also extends Student class).
+  
+- Master.Java, Phd.Java and Scientist.Java:
+  All these classes are child class of PostGraduate class.
 
 # Concepts covered and Requirements:
 - Encapsulation
